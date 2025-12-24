@@ -12,6 +12,7 @@ The tool implements a proprietary scoring system (miRNA Risk Effect Score) based
 - **Conservation Score (C):** Evolutionary importance via **PhyloP** genomic scores.
 
 ### Technical Implementation
+- Designed the biological algorithms and scoring logic independently, leveraging AI-augmented coding techniques to accelerate software development and prototype deployment.
 - **Architecture:** Client-side JavaScript (Zero-server architecture for maximum data privacy).
 - **Alignment:** Real-time nucleotide-by-nucleotide comparison against the TP53 reference sequence (1188 nt).
 - **Database:** Integrated library of ~100 validated miRNA seed regions.
